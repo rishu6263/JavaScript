@@ -1,0 +1,39 @@
+/* body{
+    background-color: white;
+} */
+.outer{
+    font-size: large;
+    display: flex;
+    flex-wrap: wrap;
+    
+
+}
+.button{
+    height: 200px;
+    width: 200px;
+    padding: 10px 10px 10px 10px;
+    border: 2px black;
+    margin: 25px 100px 25px;
+    border:1px solid black;
+}
+#blue{
+    background-color: blue;
+    text-decoration: dotted;
+}
+#white{
+    background-color: white;
+    
+}
+#green{
+    background-color: green;
+}
+#black{
+    background-color: black;
+}
+#purple{
+    background-color: purple;
+}
+#pink{
+    background-color: pink;
+}
+
